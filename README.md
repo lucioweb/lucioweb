@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Conta de estudante para testes: 
+Essa é uma conta de estudante para o aprendizado do Git: 
 - Commits✔️
 - Pushs✔️
 - Pull requests✔️
