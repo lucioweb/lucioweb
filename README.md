@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 <!--
 **lucioweb/lucioweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Conta de estudante para testes: 
 - Commits✔️
-- Push✔️
-- Pull request✔️
+- Pushs✔️
+- Pull requests✔️
