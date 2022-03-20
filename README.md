@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Conta de estudante para testes:
-Commits✔️
-Push✔️
-Pull request✔️
+Conta de estudante para testes: 
+- Commits✔️
+- Push✔️
+- Pull request✔️
