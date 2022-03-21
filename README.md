@@ -32,5 +32,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucioweb&repo=convoychat" />
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioweb)](https://github.com/lucioweb/github-readme-stats)
-
+<div style="display:inline_block">
+   <img align="center" heigth="30" width="40" src="https://github-readme-stats.vercel.app/api/pin/?username=lucioweb&repo=convoychat" />
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
