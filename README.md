@@ -33,7 +33,6 @@ Essa é uma conta de estudante para o aprendizado do Git:
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioweb)](https://github.com/lucioweb/github-readme-stats)
 <div style="display:inline_block">
-   <img align="center" heigth="30" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-" />
+<img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </div>
 
