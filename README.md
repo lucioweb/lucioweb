@@ -23,3 +23,5 @@ Essa é uma conta de estudante para o aprendizado do Git:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true&theme=dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucioweb&repo=github-readme-stats)](https://github.com/lucioweb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioweb)](https://github.com/lucioweb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioweb&layout=compact)](https://github.com/lucioweb/github-readme-stats)
