@@ -21,12 +21,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true&theme=dark)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucioweb&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucioweb&repo=convoychat" />
-</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioweb)](https://github.com/lucioweb/github-readme-stats)
 <div style="display:inline_block">
   <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
