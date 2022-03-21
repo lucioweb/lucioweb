@@ -18,7 +18,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
 - Commits✔️
 - Pushs✔️
 - Pull requests✔️
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true&theme=dark)
 <div style="display:inline_block">
