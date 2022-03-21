@@ -35,4 +35,4 @@ Essa é uma conta de estudante para o aprendizado do Git:
 <div style="display:inline_block">
    <img align="center" heigth="30" width="40" src="https://github-readme-stats.vercel.app/api/pin/?username=lucioweb&repo=convoychat" />
 </div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+
