@@ -19,7 +19,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
 - Pushs✔️
 - Pull requests✔️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true)
+
 
 <!--<div style="display:inline_block">
   <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
