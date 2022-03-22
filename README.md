@@ -45,6 +45,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
 	
 </div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 <!-- 
 https://devicon.dev/
