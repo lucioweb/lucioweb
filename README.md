@@ -44,7 +44,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />	
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-	<img src="https://starchart.cc/{lucioweb}/{lucioweb}.svg" />
+<img src="https://starchart.cc/{lucioweb}/{lucioweb}.svg" />
 		
 </div>
 
