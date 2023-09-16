@@ -23,6 +23,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
   <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+	<img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
   <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" heigth="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" />
