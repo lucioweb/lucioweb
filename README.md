@@ -36,7 +36,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true)
 <div style="display:inline_block">
 <img src="https://img.shields.io/badge/Ubuntu-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white" />
-	<img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-E34F26?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-E34F26?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Markdown-E34F26?style=for-the-badge&logo=markdown&logoColor=white" />
