@@ -43,7 +43,7 @@ Essa é uma conta de estudante para o aprendizado do Git:
 -->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true)-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={github.com/lucioweb}&theme=blue-green" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioweb&layout=compact)](https://github.com/lucioweb/github-readme-stats)
 <div style="display:inline_block">
 <img src="https://img.shields.io/badge/Ubuntu-A34F26?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Debian-B34F26?style=for-the-badge&logo=debian&logoColor=white" />
